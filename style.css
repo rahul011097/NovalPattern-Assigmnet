@@ -362,6 +362,13 @@ button:hover {
   color: green;
   margin-right: 10px;
 }
+.backbutton {
+  color: black;
+  text-decoration: none;
+}
+.backbutton:hover {
+  color: red;
+}
 .pricing-menu p {
   padding: 10px 0;
 }
